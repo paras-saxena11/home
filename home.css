@@ -216,7 +216,7 @@ footer {
     top: 10vh;
     flex-direction: column;
     align-items: center;
-    height: 90vh;
+    height: 50vh;
     width: 65%;
     background-color: rgb(58, 58, 58);
     transform: translateX(100%);
