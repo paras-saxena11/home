@@ -18,10 +18,8 @@
 }
 .header {
   display: flex;
-  /* margin-top: 0.8rem; */
   width: 100%;
   justify-content: space-around;
-  /* align-items: center; */
   height: 10vh;
 }
 .logo {
@@ -37,10 +35,9 @@
 }
 .logo img {
   object-fit: cover;
-  height: 3rem;
+  height: 2.9rem;
   width: 10rem;
   cursor: pointer;
-  overflow-y: hidden;
 }
 .logo h4 {
   font-style: italic;
